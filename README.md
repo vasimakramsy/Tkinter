@@ -6,3 +6,8 @@ if u want just clone and play with it
 
 # part-2
 normal calculator
+
+# part-3
+BMI calculator
+you can check your body health condition by calculating the bmi 
+and try to get your result
