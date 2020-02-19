@@ -14,3 +14,7 @@ and try to get your results
 
 # part-4
 creating an web scraper gui to collect the weather datas
+
+# part - 4 
+creating a clone to calculate my typing speed
+credits - @codehub
