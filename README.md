@@ -19,6 +19,6 @@ creating an web scraper gui to collect the weather datas
 creating a clone to calculate my typing speed
 credits - @codehub
 
-# part-5
+# part-6
 python code for conversion of pdf to image and also to compress or alter its 
 pixel size
